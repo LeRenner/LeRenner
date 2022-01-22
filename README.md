@@ -12,8 +12,7 @@ Here are some random facts about me:
 - 📫 How to reach me: you can find my contact info at [lerenner.dev](https://lerenner.dev)
 <br />
 
-⠀⠀![LeRenner's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeRenner&show_icons=true&theme=tokyonight)
- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeRenner&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+⠀⠀![LeRenner's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeRenner&show_icons=true&theme=tokyonight)⠀⠀[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeRenner&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **LeRenner/LeRenner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
