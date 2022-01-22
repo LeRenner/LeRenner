@@ -1,14 +1,16 @@
 ### Hello there, kind internet stranger!
 
-Here are some random facts about me:
+Here are some random facts about me:  
 
-- I'm a computer science student at [University of São Paulo](https://www5.usp.br/)
-- I love playing with servers, microcontrollers, linux, and other nerdy computer things
-- I'm still not sure about witch area of computer science I'm going to focus on. There are too many cool ones.
+- I'm a computer science student at [University of São Paulo](https://www.usp.br/)  
+- I love playing with servers, microcontrollers, linux, and other nerdy computer things  
+- I'm still not sure about witch area of computer science I'm going to focus on. There are too many cool ones.  
 
-- 🔭 I’m currently working on my home server and random arduino projects
+<br />
+
+- 🔭 I’m currently working on my home server and random arduino projects  
 - 🌱 I’m currently learning about networks and operating systems at a low level
-- 📫 How to reach me: You can find my contact info at [lerenner.dev](https://lerenner.dev)
+- 📫 How to reach me: You can find my contact info at [lerenner.dev](https://lerenner.dev)  
 
 
 ![LeRenner's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeRenner&show_icons=true&theme=tokyonight)
