@@ -4,11 +4,10 @@ Here are some random facts about me:
 
 - I'm a computer science student at [University of São Paulo](https://www.usp.br/)
 - I love playing with servers, microcontrollers, linux, and other nerdy computer things
-- I'm still not sure about witch area of computer science I'm going to focus on
 <br />
 
-- 🔭 I’m currently working on my home server and random arduino projects  
-- 🌱 I’m currently learning about networks and operating systems at a low level
+- 🔭 I’m currently working on my home server and random web projects
+- 🌱 I’m currently learning about computer graphics at a low level
 - 📫 How to reach me: you can find my contact info at [lerenner.dev](https://lerenner.dev)
 <br />
 
