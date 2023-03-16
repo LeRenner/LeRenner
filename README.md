@@ -7,7 +7,7 @@ Here are some random facts about me:
 <br />
 
 - 🔭 I’m currently working on my home server and random web projects
-- 🌱 I’m currently learning about computer graphics at a low level
+- 🌱 I’m currently learning about computer graphics and databases at a low level
 - 📫 How to reach me: you can find my contact info at [lerenner.dev](https://lerenner.dev)
 <br />
 
