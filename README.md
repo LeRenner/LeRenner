@@ -6,8 +6,8 @@ Here are some random facts about me:
 - I love playing with servers, microcontrollers, linux, and other nerdy computer things
 <br />
 
-- 🔭 I’m currently working on my home server and random web projects
-- 🌱 I’m currently learning about computer graphics and databases at a low level
+- 🔭 I’m currently working on my home server and random iot projects
+- 🌱 I’m currently learning about advanced data structures and computability theory
 - 📫 How to reach me: you can find my contact info at [lerenner.dev](https://lerenner.dev)
 <br />
 
