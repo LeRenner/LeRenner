@@ -3,11 +3,11 @@
 Here are some random facts about me:  
 
 - I'm a computer science student at [University of São Paulo](https://www.usp.br/)
-- I love playing with servers, microcontrollers, linux, and other nerdy computer things
+- I love playing with servers, docker, kubernetes, linux, and other nerdy computer things
 <br />
 
-- 🔭 I’m currently working on my home server and random iot projects
-- 🌱 I’m currently learning about advanced data structures and computability theory
+- 🔭 I’m currently working on my k8s cluster and btrfs array on my home server
+- 🌱 I’m currently learning about advanced data structures and kubernetes
 - 📫 How to reach me: you can find my contact info at [lerenner.dev](https://lerenner.dev)
 <br />
 
