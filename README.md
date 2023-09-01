@@ -10,7 +10,6 @@ Here are some random facts about me:
 - 🌱 I’m currently learning about advanced data structures and kubernetes
 - 📫 How to reach me: you can find my contact info at [lerenner.dev](https://lerenner.dev)
 <br />
-
 <!--
 ⠀⠀![LeRenner's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeRenner&show_icons=true&theme=tokyonight)⠀⠀[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeRenner&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
