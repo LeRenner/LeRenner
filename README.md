@@ -3,7 +3,7 @@
 Here are some things about me:  
 
 - I have a Computer Science undergraduate degree from [University of São Paulo](https://www.usp.br/).
-- I currently work at [VirtualiSurg](https://virtualisurg.com/) as a DevOps Intern, managing GitHub and GitLab CI-CD pipelines, mantaining runners, and automating development processes in the company.
+- I currently work at [VirtualiSurg](https://virtualisurg.com/) as a DevOps Engineer, managing GitHub and GitLab CI-CD pipelines, mantaining runners, and automating development processes in the company.
 - I really like working with server infrastructure, Kubernetes, and am interested in Site Reliability Engineering.
 - You can find my Curriculum Vitae [here](https://lerenner.dev/cv.pdf).
 
