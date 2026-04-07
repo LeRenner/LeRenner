@@ -18,3 +18,7 @@ I have worked on many projects over the years, and many of them are documented h
 - [Homemade smart lights](https://github.com/LeRenner/pudimLights) that can be controlled by anyone with an invite
 - An [MQTT-based telegram messenger](https://github.com/LeRenner/telegram-mqtt-messenger), for easy notifications from IOT devices on my home network
 - An [anonymous messaging website](https://github.com/LeRenner/pudim-mailer) integrated to my personal Telegram bot that allows anyone to send me anonymous messages
+
+<br/>
+
+I have a personal website! Check it out at [lerenner.dev](https://lerenner.dev)!
