@@ -1,10 +1,11 @@
-### Hello there, kind internet stranger!
+### Hello, there!
 
 Here are some things about me:  
 
-- I have a Computer Science undergraduate degree from [University of São Paulo](https://www.usp.br/).
+- I have a Bachelor’s degree in Computer Science from [University of São Paulo](https://www.usp.br/).
 - I currently work at [Incognia](https://www.incognia.com/) as a Site Reliability Engineer.
-- I really like working with server infrastructure, Kubernetes, and am interested in Site Reliability Engineering.
+- I'm a licensed amateur radio operator with callsign [PY2PET](https://www.qrz.com/db/PY2PET).
+- I really like projects involving selfhosting, distributed systems, and kubernetes.
 - You can find my Curriculum Vitae [here](https://lerenner.dev/cv.pdf).
 
 <br/>
